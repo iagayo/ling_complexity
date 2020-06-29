@@ -18,7 +18,6 @@ being ASL the average sentence length in words, and ASW the average number of sy
 ### Basic Usage
 ```python
 >>> import Complexity as comp
->>> objcomp = comp.text("Esta é uma frase de teste.")
 >>> objcomp = comp.text("""
 Quando a noite desce e sepulta dentro do manto o perfil austero do castelo de
 Fuentes, Fronteira desperta.
